@@ -1,0 +1,889 @@
+text,intent
+I need to book a flight to New York,order flight
+Can you help me find a taxi?,order taxi
+I want to reserve a hotel room,order hotel
+Book a flight to London,order flight
+Can you order a taxi for me?,order taxi
+I need to check in to my hotel,order hotel
+I want to fly to Paris on the 3rd of June,order flight
+Can you arrange a taxi to the airport?,order taxi
+I need to find a hotel in Tokyo,order hotel
+I'd like to book a one-way flight to Miami,order flight
+I need a ride to the train station,order taxi
+I want to stay at a 5-star hotel,order hotel
+I'm looking for a flight to Sydney,order flight
+Can you send a taxi to pick me up?,order taxi
+I need to make a hotel reservation,order hotel
+Please book a flight to Rome,order flight
+How do I order a taxi?,order taxi
+I need to find a hotel near the airport,order hotel
+Book a flight to Los Angeles,order flight
+Can you call me a taxi?,order taxi
+I want to stay at a hotel with a pool,order hotel
+I need to fly to Beijing for a business trip,order flight
+Can you book a taxi for me?,order taxi
+I want to find a cheap hotel in Paris,order hotel
+I need to book a round-trip flight to Tokyo,order flight
+Can you reserve a taxi for tomorrow morning?,order taxi
+I need to find a hotel in the city center,order hotel
+I'd like to book a flight to New Zealand,order flight
+Can you pick me up from the airport?,order taxi
+I want to stay at a hotel with a gym,order hotel
+Book a flight to Barcelona,order flight
+Can you take me to the train station?,order taxi
+I need to book a hotel for my vacation,order hotel
+I'm looking for a direct flight to Chicago,order flight
+Can you order a taxi for later today?,order taxi
+I want to stay at a hotel with a view,order hotel
+Please find me a flight to Amsterdam,order flight
+How much does a taxi cost?,order taxi
+I need to find a hotel that allows pets,order hotel
+I want to fly to Hawaii for my honeymoon,order flight
+Can you pick me up at my hotel?,order taxi
+I need to book a hotel for my wedding,order hotel
+Book a flight to Bangkok,order flight
+Can you drive me to the airport?,order taxi
+I want to stay at a hotel with a spa,order hotel
+I need to travel to Shanghai for a conference,order flight
+Can you take me to the bus station?,order taxi
+I need to find a hotel with a restaurant,order hotel
+I'd like to book a flight to Australia,order flight
+Can you call a taxi for me?,order taxi
+I want to stay at a hotel near the beach,order hotel
+I need to book a flight to San Francisco,order flight
+Can you order a taxi for me in an hour?,order taxi
+I want to find a hotel with a bar,order hotel
+Please reserve a flight to Dubai,order flight
+How long will it take for a taxi to arrive?,order taxi
+I need to find a hotel that offers free breakfast,order hotel
+I'd like to fly to London for the weekend,order flight
+Can you pick me up from my office,order taxi
+I need to book a hotel for my family vacation,order hotel
+Book a flight to Cancun,order flight
+Can you take me to the airport at 6am?,order taxi
+I want to stay at a hotel with a rooftop bar,order hotel
+I need to travel to Madrid for a job interview,order flight
+Can you arrange a taxi for a group of 5 people?,order taxi
+I need to find a hotel with a pool and a beach,order hotel
+I'd like to book a round-trip flight to Paris,order flight
+Can you pick me up from my friend's house?,order taxi
+I want to stay at a hotel near the city's attractions,order hotel
+Please book a flight to Hong Kong,order flight
+How do I pay for the taxi?,order taxi
+I need to find a hotel with a good view of the city,order hotel
+I want to fly to Las Vegas for a weekend getaway,order flight
+Can you order a taxi for me at 7pm?,order taxi
+I need to book a hotel for a business trip,order hotel
+Book a flight to Sydney with a layover in Tokyo,order flight
+Can you drive me to my doctor's appointment?,order taxi
+I want to stay at a hotel with a jacuzzi,order hotel
+I need to travel to Berlin for a family reunion,order flight
+Can you take me to the airport from my hotel?,order taxi
+I need to find a hotel with a meeting room,order hotel
+I'd like to book a flight to Paris in business class,order flight
+Can you call a taxi for me in 10 minutes?,order taxi
+I want to stay at a hotel near the shopping district,order hotel
+Please reserve a flight to New Delhi,order flight
+How much time do I have to wait for the taxi?,order taxi
+I need to find a hotel with a kid's club,order hotel
+I want to fly to Tokyo to visit my friend,order flight
+Can you pick me up from the train station?,order taxi
+I need to book a hotel for my parents' anniversary,order hotel
+Book a flight to Vancouver,order flight
+Can you take me to the airport from my office?,order taxi
+I want to stay at a hotel near the concert venue,order hotel
+I need to travel to Seoul for a cultural exchange program,order flight
+Can you arrange a taxi to take me and my friends to the party?,order taxi
+I need to find a hotel with a shuttle service to the airport,order hotel
+I'd like to book a round-trip flight to Hong Kong,order flight
+Can you pick me up from the airport and drop me off at my hotel?,order taxi
+I want to stay at a hotel with a balcony,order hotel
+Please book a flight to Istanbul,order flight
+How can I track my taxi?,order taxi
+I need to find a hotel with a fitness center,order hotel
+I want to fly to San Diego to attend a conference,order flight
+Can you order a taxi for me for tomorrow morning?,order taxi
+I need to book a hotel for a romantic getaway,order hotel
+Book a flight to Paris with a layover in Amsterdam,order flight
+Can you take me to the airport from my home?,order taxi
+I want to stay at a hotel near the airport with a free shuttle service,order hotel
+I need to travel to Tokyo for a study abroad program,order flight
+Can you pick me up from the bus station?,order taxi
+I need to find a hotel with a spa and a sauna,order hotel
+I'd like to book a flight to New York in first class,order flight
+Can you order a taxi for me at 8am?,order taxi
+I want to stay at a hotel near the beach with a water sports facility,order hotel
+Please book a flight to Bangkok,order flight
+How much does the taxi ride cost?,order taxi
+I need to find a hotel with a restaurant and a bar,order hotel
+I want to fly to Amsterdam for a weekend trip,order flight
+Can you take me to the train station from my hotel?,order taxi
+I need to book a hotel for a family reunion,order hotel
+Book a flight to Rome,order flight
+Can you take me to the airport from my friend's house?,order taxi
+I want to stay at a hotel with a garden,order hotel
+I need to travel to New York for a wedding,order flight
+Can you arrange a taxi for me and my family with a child seat?,order taxi
+I need to find a hotel with a pet-friendly policy,order hotel
+I'd like to book a round-trip flight to Singapore,order flight
+Can you pick me up from the airport and drop me off at a restaurant?,order taxi
+I want to stay at a hotel near the park with a bike rental service,order hotel
+Please reserve a flight to Tokyo,order flight
+How long does it take to get to the airport by taxi?,order taxi
+I need to find a hotel with a business center,order hotel
+I want to fly to Los Angeles to visit my family,order flight
+Can you order a taxi for me for later today?,order taxi
+I need to book a hotel for a hiking trip,order hotel
+Book a flight to Miami,order flight
+Can you take me to the airport from my gym?,order taxi
+I want to stay at a hotel near the museum,order hotel
+I need to travel to Shanghai for a job interview,order flight
+Can you arrange a taxi for me and my colleagues to the conference venue?,order taxi
+I need to find a hotel with a rooftop pool,order hotel
+I'd like to book a flight to Dubai in economy class,order flight
+Can you pick me up from the airport and drop me off at the movie theater?,order taxi
+I want to stay at a hotel with a library,order hotel
+Please book a flight to London,order flight
+How do I book a taxi in advance?,order taxi
+I need to find a hotel with a concierge service,order hotel
+I want to fly to Beijing for a business meeting,order flight
+Can you order a taxi for me at 9am tomorrow?,order taxi
+I need to book a hotel for a ski trip,order hotel
+Book a flight to Rio de Janeiro,order flight
+Can you take me to the airport from my apartment?,order taxi
+I want to stay at a hotel near the theater,order hotel
+I need to travel to Sydney for a family vacation,order flight
+Can you arrange a taxi for me and my friends to go clubbing?,order taxi
+I need to find a hotel with a rooftop restaurant,order hotel
+I'd like to book a round-trip flight to Seoul,order flight
+Can you pick me up from the airport and drop me off at the shopping mall?,order taxi
+I want to stay at a hotel with a heated pool,order hotel
+Please reserve a flight to Barcelona,order flight
+How can I pay for the taxi ride?,order taxi
+I need to find a hotel with a 24-hour room service,order hotel
+I want to fly to Honolulu for a beach vacation,order flight
+Can you order a taxi for me for later tonight?,order taxi
+festival,order hotel
+Book a flight to Paris,order flight
+Can you take me to the airport from my office?,order taxi
+I want to stay at a hotel near the shopping district,order hotel
+I need to travel to Madrid for a language course,order flight
+Can you arrange a taxi for me and my colleagues to the airport?,order taxi
+I need to find a hotel with a fitness center,order hotel
+I'd like to book a flight to New Delhi in business class,order flight
+Can you pick me up from the airport and drop me off at the art gallery?,order taxi
+I want to stay at a hotel with a spa,order hotel
+Please book a flight to Vancouver,order flight
+How much time do I need to allow for a taxi ride to the train station?,order taxi
+I need to find a hotel with a pool,order hotel
+I want to fly to Rio de Janeiro for the carnival,order flight
+Can you order a taxi for me at 7am tomorrow?,order taxi
+I need to book a hotel for a romantic getaway,order hotel
+Book a flight to Cancun,order flight
+Can you take me to the airport from my friend's wedding venue?,order taxi
+I want to stay at a hotel near the historic landmarks,order hotel
+I need to travel to Bangkok for a conference,order flight
+Can you arrange a taxi for me and my family to the amusement park?,order taxi
+I need to find a hotel with a view of the sea,order hotel
+I'd like to book a round-trip flight to Hong Kong,order flight
+Can you pick me up from the airport and drop me off at the concert venue?,order taxi
+I want to stay at a hotel with a bar,order hotel
+Please reserve a flight to San Francisco,order flight
+How do I know if the taxi driver is licensed and insured?,order taxi
+I need to find a hotel with a shuttle service,order hotel
+I want to fly to Barcelona for a food tour,order flight
+Can you order a taxi for me at 10pm tonight?,order taxi
+I need to book a hotel for a beach wedding,order hotel
+Book a flight to Melbourne,order flight
+Can you take me to the airport from my university?,order taxi
+I want to stay at a hotel near the airport,order hotel
+I need to travel to Amsterdam for a photography workshop,order flight
+Can you arrange a taxi for me and my friends to the pub?,order taxi
+I need to find a hotel with a jacuzzi,order hotel
+I'd like to book a flight to Tokyo in first class,order flight
+Can you pick me up from the airport and drop me off at the hiking trail?,order taxi
+I want to stay at a hotel with a beachfront location,order hotel
+Please book a flight to New York,order flight
+How can I cancel a taxi reservation?,order taxi
+I need to find a hotel with a free breakfast,order hotel
+I want to fly to Dubai for a luxury shopping trip,order flight
+Can you order a taxi for me for tomorrow evening?,order taxi
+I need to book a hotel for a cultural tour,order hotel
+Book a flight to Sydney,order flight
+Can you take me to the airport from my coworking space?,order taxi
+I want to stay at a hotel near the train station,order hotel
+I need to travel to Paris for a fashion show,order flight
+Can you arrange a taxi for me and my partner to the beach?,order taxi
+I need to find a hotel with a kids' club,order hotel
+I'd like to book a round-trip flight to Los Angeles,order hotel
+Can you pick me up from the airport and drop me off at the museum?,order taxi
+I want to stay at a hotel with a rooftop pool,order hotel
+Please reserve a flight to Rome,order flight
+How can I pay for a taxi ride?,order taxi
+I need to find a hotel with a pet-friendly policy,order hotel
+I want to fly to Athens for a historical tour,order flight
+Can you order a taxi for me for this afternoon?,order taxi
+I need to book a hotel for a business trip,order hotel
+Book a flight to Bangkok,order flight
+Can you take me to the airport from my hotel?,order taxi
+I want to stay at a hotel near the beach,order hotel
+I need to travel to London for a job interview,order flight
+Can you arrange a taxi for me and my team to the office?,order taxi
+I need to find a hotel with a meeting room,order hotel
+I'd like to book a flight to Sydney in economy class,order flight
+Can you pick me up from the airport and drop me off at the restaurant?,order taxi
+I want to stay at a hotel with a restaurant,order hotel
+Please book a flight to Tokyo,order flight
+How long does it take to get a taxi at the airport?,order taxi
+I need to find a hotel with a business center,order hotel
+I want to fly to Madrid for a soccer game,order flight
+Can you order a taxi for me for tonight?,order taxi
+I need to book a hotel for a family vacation,order hotel
+Book a flight to Las Vegas,order flight
+Can you take me to the airport from my apartment?,order taxi
+I want to stay at a hotel with a balcony,order hotel
+I need to travel to San Francisco for a tech conference,order flight
+Can you arrange a taxi for me and my colleagues to the convention center?,order taxi
+I need to find a hotel with a spa and gym,order hotel
+I'd like to book a round-trip flight to Paris,order flight
+Can you pick me up from the airport and drop me off at the theater?,order taxi
+I want to stay at a hotel near the city center,order hotel
+Please reserve a flight to Beijing,order flight
+What is the maximum number of passengers that can fit in a taxi?,order taxi
+I need to find a hotel with a rooftop bar,order hotel
+I want to fly to New York for a shopping spree,order flight
+Can you order a taxi for me for next week?,order taxi
+I need to book a hotel for a ski trip,order hotel
+Book a flight to Istanbul,order flight
+Can you take me to the airport from my home?,order taxi
+I want to stay at a hotel with a river view,order hotel
+I need to travel to Shanghai for a business meeting,order flight
+Can you arrange a taxi for me and my partner to the airport?,order taxi
+I need to find a hotel with a kitchenette,order hotel
+I'd like to book a flight to Seoul in business class,order flight
+Can you pick me up from the airport and drop me off at the cinema?,order taxi
+I want to stay at a hotel with a garden,order hotel
+Please book a flight to Dubai,order flight
+How far in advance should I reserve a taxi?,order taxi
+I need to find a hotel with a sauna,order hotel
+I want to fly to Hong Kong for a food and wine festival,order flight
+Can you order a taxi for me for early morning?,order taxi
+I need to book a hotel for a golf trip,order hotel
+Book a flight to Miami,order flight
+Can you recommend a hotel near the beach?,order hotel
+I need to book a hotel in New York for next weekend.,order hotel
+Looking for a hotel with a spa and wellness center.,order hotel
+Can you help me find a hotel in Paris?,order hotel
+I need a hotel with a conference room for a business trip.,order hotel
+Can you suggest a hotel in Tokyo with a good view?,order hotel
+Looking for a budget hotel in San Francisco.,order hotel
+I want to book a luxury hotel in Dubai.,order hotel
+Can you recommend a family-friendly hotel in Rome?,order hotel
+I need to book a pet-friendly hotel in Miami.,order hotel
+Looking for a boutique hotel in Amsterdam.,order hotel
+Can you suggest a hotel in London with a good location?,order hotel
+I want to book a hotel with a rooftop bar in New Orleans.,order hotel
+Looking for a hotel with a pool and gym in Los Angeles.,order hotel
+I need to book a hotel for a romantic getaway in Florence.,order hotel
+Can you recommend a hotel in Barcelona with a good breakfast?,order hotel
+I want to book a hotel near the city center in Chicago.,order hotel
+Looking for a hotel with free parking in Seattle.,order hotel
+I need to book a hotel in Cancun for a beach vacation.,order hotel
+Can you suggest a hotel in Sydney with good room service?,order hotel
+I want to book a hotel with a shuttle service in Las Vegas.,order hotel
+Looking for a hotel with a bar and lounge in Berlin.,order hotel
+I need to book a hotel in Bangkok for a cultural trip.,order hotel
+Can you recommend a hotel in Lisbon with a good restaurant?,order hotel
+I want to book a hotel near the airport in Toronto.,order hotel
+Looking for a hotel with a fireplace in the room in Aspen.,order hotel
+I need to book a hotel in the mountains for a ski trip in Whistler.,order hotel
+Can you suggest a hotel in Helsinki with a good sauna?,order hotel
+I want to book a hotel with a beachfront location in the Maldives.,order hotel
+Looking for a hotel with a jacuzzi in the room in Paris.,order hotel
+I need to book a hotel in the countryside for a hiking trip in Tuscany.,order hotel
+Can you recommend a hotel in San Diego with a good view of the ocean?,order hotel
+I want to book a hotel in a historic building in Venice.,order hotel
+Looking for a hotel with a hot tub and pool in Palm Springs.,order hotel
+I need to book a hotel in a secluded location for a romantic getaway in Bali.,order hotel
+Can you suggest a hotel in Cape Town with a good wine bar?,order hotel
+I want to book a hotel with a garden and terrace in Kyoto.,order hotel
+Looking for a hotel with a private beach in the Bahamas.,order hotel
+I need to book a hotel with a balcony in the room for a trip to Santorini.,order hotel
+Can you recommend a hotel in Mykonos with a good nightclub?,order hotel
+I want to book a hotel with a golf course in the Algarve.,order hotel
+Looking for a hotel with a cooking class in Florence.,order hotel
+I need to book a hotel with a fitness center in Miami Beach.,order hotel
+Can you suggest a hotel in Dubrovnik with a good bar?,order hotel
+I want to book a hotel with a terrace and view of the Eiffel Tower in Paris.,order hotel
+Looking for a hotel with a ski-in/ski-out location in Whistler.,order hotel
+I need to book a hotel in Vancouver for a business trip.,order hotel
+Can you recommend a hotel in the heart of the city in Madrid?,order hotel
+Looking for a hotel with a kids' club in Orlando.,order hotel
+I want to book a hotel with a pool and beach access in the Caribbean.,order hotel
+Can you suggest a hotel in Nice with a good spa?,order hotel
+I need to book a hotel in Reykjavik for a Northern Lights trip.,order hotel
+Looking for a hotel with a rooftop pool in Miami.,order hotel
+I want to book a hotel with a beach club in Ibiza.,order hotel
+Can you recommend a hotel in Amsterdam with a good restaurant and bar?,order hotel
+I need to book a hotel in Boston for a city break.,order hotel
+Looking for a hotel with a 24-hour gym in New York.,order hotel
+I want to book a hotel with a fireplace in the lobby in Lake Tahoe.,order hotel
+I need a taxi to take me to the airport at 7am tomorrow morning.,order taxi
+Can you book me a taxi to pick me up from the hotel at 9pm tonight?,order taxi
+I want to reserve a taxi to take me from the train station to my hotel.,order taxi
+Can you arrange a taxi for me to go to a meeting in the city center?,order taxi
+I need a taxi for a group of 4 people to go to a restaurant downtown.,order taxi
+Can you order a taxi for me to pick up my parents from the airport?,order taxi
+I want to book a taxi for a tour of the city with a driver who can speak English.,order taxi
+Can you arrange a taxi for me to go to a concert tonight?,order taxi
+I need a taxi to take me to the hospital for a medical appointment.,order taxi
+Can you book a taxi for me to take me to a conference at the convention center?,order taxi
+I want to reserve a taxi to take me to the train station early in the morning.,order taxi
+Can you arrange a taxi for me to take me to the beach with my family?,order taxi
+I need a taxi for a group of 6 people to go to a wedding venue.,order taxi
+Can you order a taxi for me to pick up a client from the airport?,order taxi
+I want to book a taxi for a tour of the countryside with a guide.,order taxi
+Can you arrange a taxi for me to take me to a business meeting in the suburbs?,order taxi
+I need a taxi to take me to a job interview in the city.,order taxi
+Can you book a taxi for me to take me to a golf course on the outskirts of town?,order taxi
+I want to reserve a taxi to take me to the museum with my friends.,order taxi
+Can you arrange a taxi for me to take me to a concert hall in the city?,order taxi
+I need a taxi for a group of 8 people to go to a sports stadium.,order taxi
+Can you order a taxi for me to pick up my child from school?,order taxi
+I want to book a taxi for a vineyard tour with a sommelier.,order taxi
+Can you arrange a taxi for me to take me to the countryside for a picnic?,order taxi
+I need a taxi to take me to a wedding reception in the evening.,order taxi
+Can you book a taxi for me to take me to a hiking trail in the mountains?,order taxi
+I want to reserve a taxi to take me to the train station for an early morning departure.,order taxi
+Can you arrange a taxi for me to take me to the airport after a late-night flight?,order taxi
+I need a taxi for a group of 10 people to go to a nightclub.,order taxi
+Can you order a taxi for me to pick up my friend from a party?,order taxi
+I want to book a taxi for a city sightseeing tour with a driver who can share local tips.,order taxi
+Can you arrange a taxi for me to take me to a friend's house for dinner?,order taxi
+I need a taxi to take me to a shopping center for a shopping spree.,order taxi
+Can you book a taxi for me to take me to a science museum with my children?,order taxi
+I want to reserve a taxi to take me to a restaurant for a romantic dinner.,order taxi
+Can you arrange a taxi for me to take me to the airport for an early flight?,order taxi
+I need a taxi for a group of 12,order taxi
+Can you help me find a hotel in New York City?,order hotel
+I would like to book a hotel for two people in Paris,order hotel
+Do you have any recommendations for a hotel in San Francisco?,order hotel
+I need to book a hotel for a business trip in London,order hotel
+Can you suggest a hotel with a pool in Miami?,order hotel
+I want to stay at a hotel with a spa in Bali,order hotel
+Can you book me a room at the Ritz-Carlton in Tokyo?,order hotel
+I need a hotel near the airport in Frankfurt,order hotel
+Do you have any deals on hotels in Las Vegas?,order hotel
+I'm looking for a budget hotel in Rome,order hotel
+Can you recommend a hotel with a view of the Eiffel Tower in Paris?,order hotel
+Can you find me a hotel with a fitness center in Sydney?,order hotel
+I want to stay at a boutique hotel in Amsterdam,order hotel
+Can you book a hotel with a kitchenette in San Diego?,order hotel
+I need a pet-friendly hotel in Seattle,order hotel
+Can you suggest a family-friendly hotel in Orlando?,order hotel
+I'm looking for a luxury hotel in Dubai,order hotel
+Can you book me a room at the Four Seasons in New York City?,order hotel
+Do you have any hotels with a rooftop bar in Bangkok?,order hotel
+I want to stay at a hotel with a beachfront in Phuket,order hotel
+Can you recommend a hotel with a pool and a bar in Miami?,order hotel
+I need a hotel in the city center of Barcelona,order hotel
+Can you find me a hotel with a sauna in Helsinki?,order hotel
+I'm looking for a hotel with a jacuzzi in Los Angeles,order hotel
+Can you book me a room at the Mandarin Oriental in Hong Kong?,order hotel
+Do you have any hotels with a restaurant in Paris?,order hotel
+I want to stay at a hotel with a garden in London,order hotel
+Can you suggest a hotel with a terrace in Florence?,order hotel
+I need a hotel with a free breakfast in San Francisco,order hotel
+Can you find me a hotel with a spa in Bali?,order hotel
+I'm looking for a hotel with a pool and a beach in Rio de Janeiro,order hotel
+Can you book me a room at the W Hotel in Barcelona?,order hotel
+Do you have any hotels with a gym in Tokyo?,order hotel
+I want to stay at a hotel with a balcony in Venice,order hotel
+Can you recommend a hotel with a view of the ocean in Honolulu?,order hotel
+I need a hotel near the train station in Munich,order hotel
+Can you find me a hotel with a fireplace in New York City?,order hotel
+I'm looking for a hotel with a Jacuzzi and a view of the mountains in Aspen,order hotel
+Can you book me a room at the St. Regis in Bali?,order hotel
+Do you have any hotels with a pool and a tennis court in Madrid?,order hotel
+I want to stay at a hotel with a bar in Dublin,order hotel
+Can you suggest a hotel with a view of the river in Paris?,order hotel
+I need a hotel with a conference room in Washington D.C.,order hotel
+Can you find me a hotel with a rooftop pool in Rio de Janeiro?,order hotel
+I'm looking for a hotel with a garden and a spa in Marrakech,order hotel
+Can you book me a room at the Grand Hyatt in Seoul?,order hotel
+I need a place to stay for the night,order hotel
+Looking for accommodation with a pool,order hotel
+Book me a place near the beach,order hotel
+I want a place with a gym,order hotel
+Can you recommend a nice lodging? ,order hotel
+I'm searching for a budget stay,order hotel
+Looking for a place with a view,order hotel
+Can you help me find a place to stay?,order hotel
+I need a room for two people,order hotel
+I'm looking for a place with a restaurant,order hotel
+I need a cozy place to spend the night,order hotel
+Can you find me a comfortable stay?,order hotel
+I'm looking for a place with good reviews,order hotel
+I need a place with a kitchen,order hotel
+Can you suggest a place with a balcony?,order hotel
+I'm searching for a place in the city center,order hotel
+I want a place with a hot tub,order hotel
+Can you help me find a place with parking?,order hotel
+I need a pet-friendly place to stay,order hotel
+Looking for a place with a fireplace,order hotel
+Can you recommend a place with a spa?,order hotel
+I'm looking for a place with a bar,order hotel
+I need a place with a terrace,order hotel
+Looking for a place with a garden,order hotel
+Can you help me find a place with a pool table?,order hotel
+I'm searching for a place with a sauna,order hotel
+Can you suggest a place with a good location?,order hotel
+I need a place with a Jacuzzi,order hotel
+I'm looking for a place with a mountain view,order hotel
+Looking for a place with a beach view,order hotel
+Can you recommend a place with a city view?,order hotel
+I need a place with a lake view,order hotel
+Looking for a place with a river view,order hotel
+Can you help me find a place with a rooftop?,order hotel
+I'm searching for a place with a garden view,order hotel
+I need a place with a fitness center,order hotel
+Looking for a place with a playground,order hotel
+Can you suggest a place with a movie theater?,order hotel
+I'm looking for a place with a library,order hotel
+Looking for a place with a tennis court,order hotel
+Can you recommend a place with a basketball court?,order hotel
+I need a place with a pool and a bar,order hotel
+I'm searching for a place with a barbecue area,order hotel
+Can you help me find a place with a game room?,order hotel
+I need a place with a pool and a spa,order hotel
+Looking for a place with a children's pool,order hotel
+Can you suggest a place with a dance floor?,order hotel
+I'm looking for a place with a piano,order hotel
+There will be two of us staying in the room.,number of guests
+I booked a room for three people.,number of guests
+Four guests will be staying in our room.,number of guests
+Our reservation is for five people.,number of guests
+We have six people in our party.,number of guests
+The room is for two adults and one child.,number of guests
+There are seven people staying in the room.,number of guests
+Our reservation is for eight guests.,number of guests
+Nine people will be staying in the room.,number of guests
+We have a group of ten staying in the hotel room.,number of guests
+The room is for two people.,number of guests
+Three guests will be staying in the hotel room.,number of guests
+Our reservation is for four people.,number of guests
+Five people will be staying in the hotel room.,number of guests
+Six guests will be staying in our room.,number of guests
+Our reservation is for seven people.,number of guests
+There will be eight people staying in the room.,number of guests
+We have a party of nine staying in the hotel room.,number of guests
+The room is for four people.,number of guests
+Five guests will be staying in the hotel room.,number of guests
+Our reservation is for six people.,number of guests
+Seven people will be staying in the hotel room.,number of guests
+Eight guests will be staying in our room.,number of guests
+Our reservation is for nine people.,number of guests
+Ten people will be staying in the room.,number of guests
+There will be two adults and one child staying in the room.,number of guests
+Our reservation is for four adults and one child.,number of guests
+Five adults will be staying in the room.,number of guests
+We have a party of six adults and two children staying in the hotel room.,number of guests
+The room is for two adults and two children.,number of guests
+Our reservation is for four adults and two children.,number of guests
+Five adults and one child will be staying in the room.,number of guests
+We have a party of six adults and one child staying in the hotel room.,number of guests
+The room is for two adults and three children.,number of guests
+Our reservation is for four adults and three children.,number of guests
+Five adults and two children will be staying in the room.,number of guests
+We have a party of six adults and two children staying in the hotel room.,number of guests
+The room is for two adults and four children.,number of guests
+Our reservation is for four adults and four children.,number of guests
+Five adults and three children will be staying in the room.,number of guests
+We have a party of six adults and three children staying in the hotel room.,number of guests
+The room is for two adults and five children.,number of guests
+Our reservation is for four adults and five children.,number of guests
+Five adults and four children will be staying in the room.,number of guests
+We have a party of six adults and four children staying in the hotel room.,number of guests
+2 people will be staying in the room.,number of guests
+3 guests will be staying in our room.,number of guests
+Our reservation is for 4 people.,number of guests
+5 people will be staying in the hotel room.,number of guests
+6 guests will be staying in the room.,number of guests
+Our reservation is for 7 people.,number of guests
+8 people will be staying in the room.,number of guests
+We have a party of 9 staying in the hotel room.,number of guests
+The room is for 10 people.,number of guests
+Our reservation is for 11 guests.,number of guests
+12 people will be staying in the room.,number of guests
+We have a group of 13 staying in the hotel room.,number of guests
+The room is for 14 people.,number of guests
+Our reservation is for 15 people.,number of guests
+16 guests will be staying in the room.,number of guests
+We have a party of 17 staying in the hotel room.,number of guests
+The room is for 18 people.,number of guests
+Our reservation is for 19 guests.,number of guests
+20 people will be staying in the room.,number of guests
+We have a group of 21 staying in the hotel room.,number of guests
+The room is for 22 people.,number of guests
+Our reservation is for 23 guests.,number of guests
+24 people will be staying in the room.,number of guests
+We have a party of 25 staying in the hotel room.,number of guests
+The room is for 26 people.,number of guests
+Our reservation is for 27 guests.,number of guests
+28 people will be staying in the room.,number of guests
+We have a group of 29 staying in the hotel room.,number of guests
+The room is for 30 people.,number of guests
+Our reservation is for 31 guests.,number of guests
+32 people will be staying in the room.,number of guests
+We have a party of 33 staying in the hotel room.,number of guests
+The room is for 34 people.,number of guests
+Our reservation is for 35 guests.,number of guests
+36 people will be staying in the room.,number of guests
+We have a group of 37 staying in the hotel room.,number of guests
+The room is for 38 people.,number of guests
+Our reservation is for 39 guests.,number of guests
+40 people will be staying in the room.,number of guests
+We have a party of 41 staying in the hotel room.,number of guests
+The room is for 42 people.,number of guests
+Our reservation is for 43 guests.,number of guests
+44 people will be staying in the room.,number of guests
+We have a group of 45 staying in the hotel room.,number of guests
+The room is for 46 people.,number of guests
+Our reservation is for 47 guests.,number of guests
+48 people will be staying in the room.,number of guests
+We have a party of 49 staying in the hotel room.,number of guests
+The room is for 50 people.,number of guests
+Can you please send a taxi to my location?,order taxi
+I need a taxi to take me to the airport.,order taxi
+Is it possible to get a taxi right now?,order taxi
+Can you book a taxi for me?,order taxi
+How long will it take for a taxi to arrive?,order taxi
+I need to go to the train station. Can you arrange a taxi?,order taxi
+I would like to order a taxi for tomorrow morning.,order taxi
+Can you send a taxi to pick me up from my hotel?,order taxi
+I need a taxi to go to my office.,order taxi
+Can you please arrange a taxi to take me to my meeting?,order taxi
+I need a taxi to take me to the hospital.,order taxi
+Can you please book a taxi to take me to the restaurant?,order taxi
+I need a taxi to take me to the bus station.,order taxi
+Can you arrange a taxi for me in 20 minutes?,order taxi
+I would like to order a taxi for 6pm.,order taxi
+Can you send a taxi to pick me up from the shopping mall?,order taxi
+I need a taxi to go to the museum.,order taxi
+Can you please arrange a taxi to take me to the concert?,order taxi
+I need a taxi to take me to the gym.,order taxi
+Can you book a taxi for me for 7am tomorrow?,order taxi
+I need a taxi to go to the university.,order taxi
+Can you arrange a taxi to take me to the park?,order taxi
+I would like to order a taxi for 9pm.,order taxi
+Can you send a taxi to pick me up from the movie theater?,order taxi
+I need a taxi to take me to the mall.,order taxi
+Can you please book a taxi to take me to the church?,order taxi
+I need a taxi to go to the airport tomorrow.,order taxi
+Can you please arrange a taxi to take me to the stadium?,order taxi
+I need a taxi to take me to the beach.,order taxi
+Can you book a taxi for me for 8pm tonight?,order taxi
+I need a taxi to go to the embassy.,order taxi
+Can you arrange a taxi to take me to the station?,order taxi
+I would like to order a taxi for 11pm.,order taxi
+Can you send a taxi to pick me up from my office?,order taxi
+I need a taxi to take me to the club.,order taxi
+Can you please book a taxi to take me to the hotel?,order taxi
+I need a taxi to go to the restaurant.,order taxi
+Can you please arrange a taxi to take me to the theater?,order taxi
+I need a taxi to take me to the airport at 5am.,order taxi
+Can you book a taxi for me for 10pm tonight?,order taxi
+I need a taxi to go to the cinema.,order taxi
+Can you arrange a taxi to take me to the bar?,order taxi
+I would like to order a taxi for 7am tomorrow.,order taxi
+Can you send a taxi to pick me up from my friend's house?,order taxi
+I need a taxi to take me to the airport at 3pm.,order taxi
+Can you please book a taxi to take me to the office?,order taxi
+I need a taxi to go to the club at 10pm.,order taxi
+Can you please arrange a taxi to take me to the museum?,order taxi
+I need a taxi to take me to the airport,order taxi
+Can you send a taxi to pick me up from the train station?,order taxi
+I need a taxi to go to the city center.,order taxi
+Can you please arrange a taxi to take me to the airport at 7am?,order taxi
+I would like to order a taxi for 4pm.,order taxi
+Can you book a taxi for me for 9pm tonight?,order taxi
+I need a taxi to take me to the hospital at 2pm.,order taxi
+Can you arrange a taxi to take me to the convention center?,order taxi
+I need a taxi to go to the stadium at 7pm.,order taxi
+Can you please send a taxi to my friend's house to pick me up?,order taxi
+I need a taxi to take me to the airport at 8am.,order taxi
+Can you book a taxi for me for 5pm?,order taxi
+I would like to order a taxi for 10am tomorrow.,order taxi
+Can you please arrange a taxi to take me to the train station?,order taxi
+I need a taxi to go to the conference center at 11am.,order taxi
+Can you send a taxi to pick me up from the hospital?,order taxi
+I need a taxi to take me to the airport at 6am.,order taxi
+Can you arrange a taxi to take me to the embassy at 9am?,order taxi
+I would like to order a taxi for 8pm tomorrow.,order taxi
+Can you book a taxi for me for 3pm?,order taxi
+I need a taxi to go to the theater at 6pm.,order taxi
+Can you please arrange a taxi to take me to the gym at 7am?,order taxi
+I need a taxi to take me to the airport at 4pm.,order taxi
+Can you send a taxi to pick me up from my apartment?,order taxi
+I need a taxi to go to the airport at 9am.,order taxi
+Can you please book a taxi to take me to the city hall?,order taxi
+I need a taxi to take me to the airport at 10am.,order taxi
+Can you arrange a taxi to take me to the museum at 2pm?,order taxi
+I would like to order a taxi for 9am tomorrow.,order taxi
+Can you send a taxi to pick me up from the park?,order taxi
+I need a taxi to go to the library at 10am.,order taxi
+Can you please arrange a taxi to take me to the convention center at 3pm?,order taxi
+I need a taxi to take me to the airport at 12pm.,order taxi
+Can you book a taxi for me for 2pm?,order taxi
+I would like to order a taxi for 11am tomorrow.,order taxi
+Can you arrange a taxi to take me to the beach at 1pm?,order taxi
+I need a taxi to go to the train station at 4pm.,order taxi
+Can you please book a taxi to take me to the airport at 11am?,order taxi
+I need a taxi to take me to the mall at 12pm.,order taxi
+Can you arrange a taxi to take me to the airport at 2pm?,order taxi
+I would like to order a taxi for 6pm tomorrow.,order taxi
+Can you send a taxi to pick me up from the airport?,order taxi
+I need a taxi to go to the hospital at 9am.,order taxi
+Can you please arrange a taxi to take me to the stadium at 8pm?,order taxi
+I need a taxi,order taxi
+Can you help me book a flight from New York to London for two people departing on June 15th and returning on June 22nd?,order flight
+I need to fly from Los Angeles to Tokyo,order flight
+What is the cheapest round-trip flight from Miami to Paris in December?,order flight
+Can you help me find a direct flight from San Francisco to New York on December 10th?,order flight
+I want to book a one-way flight from Chicago to London on November 25th. What are my options?,order flight
+What is the best deal on a round-trip flight from Boston to Rome in January?,order flight
+I'm interested in booking a flight from Toronto to Hong Kong in February. Can you help me find a good deal?,order flight
+What is the baggage allowance for flights to Sydney on Qantas Airways?,order flight
+Can you help me book a last-minute flight from Seattle to San Diego on December 20th?,order flight
+I'm looking for a direct flight from Dubai to New York on Emirates Airlines departing on January 5th,order flight
+What is the cancellation policy for flights to Bangkok on Thai Airways?,order flight
+Can you help me find a flight from Los Angeles to Sydney with a layover in Honolulu?,order flight
+I want to book a round-trip ticket from Vancouver to Paris for two people in March. What are my options?,order flight
+What is the flight time from New York to Tokyo on Delta Airlines?,order flight
+Can you find me a one-way flight from San Francisco to Seoul with a stopover in Tokyo?,order flight
+I need to book a flight from Miami to Madrid for three people in April. Can you help me with that?,order flight
+What is the cost of a one-way flight from Dubai to New York on Emirates Airlines?,order flight
+Can you help me book a flight from Los Angeles to New York with a layover in Dallas on May 20th?,order flight
+I'm looking for a direct flight from Paris to Los Angeles on Air France departing on June 1st,order flight
+What is the baggage policy for flights to Rome on Alitalia?,order flight
+I want to fly from New York to Sydney in November. Can you help me find a good deal?,order flight
+Can you help me book a round-trip flight from San Francisco to Tokyo for two people in January?,order flight
+What is the check-in policy for flights to Bangkok on Thai Airways?,order flight
+Can you help me find a cheap flight from Toronto to Miami in February?,order flight
+I need to book a one-way flight from Los Angeles to San Francisco for four people on April 5th. What are my options?,order flight
+What is the cost of a round-trip flight from Seattle to Honolulu in May?,order flight
+Can you help me book a flight from Sydney to New York with a stopover in Los Angeles on June 10th?,order flight
+I'm interested in booking a flight from Vancouver to Bangkok in July. Can you help me find a good deal?,order flight
+What is the baggage allowance for flights to Tokyo on All Nippon Airways?,order flight
+Can you help me book a last-minute flight from New York to Chicago on August 20th?,order flight
+I'm looking for a direct flight from Miami to London on British Airways departing on September 1st,order flight
+What is the cancellation policy for flights to Paris on Air France?,order flight
+Can you help me find a flight from San Francisco to Sydney with a layover in Honolulu?,order flight
+Can you please book a taxi to pick me up at my hotel at 10 AM tomorrow and take me to the airport?,order taxi
+I need to book a taxi to pick me up from the train station at 6 PM tonight and drop me off at the restaurant downtown.,order taxi
+Can you arrange for a taxi to take me and my colleagues from the office to the conference center at 9 AM on Monday?,order taxi
+I'd like to order a taxi to pick me up from my house at 8 PM and take me to the movie theater.,order taxi
+Can you book a taxi to pick me up from the airport at 3 PM on Friday and drop me off at the hotel?,order taxi
+I need a taxi to take me and my family from our apartment to the amusement park on Saturday morning.,order taxi
+Can you please book a taxi to pick me up from the convention center at 7 PM tonight and take me to the restaurant downtown?,order taxi
+I'd like to order a taxi to pick me up from the hotel at 9 AM tomorrow and take me to the beach.,order taxi
+Can you arrange for a taxi to take me and my friends from the concert venue to the bar downtown at 11 PM tonight?,order taxi
+I need a taxi to pick me up from the office at 5 PM and take me to the train station.,order taxi
+Can you please book a taxi to pick me up from the restaurant at 8 PM tonight and take me to the theater?,order taxi
+I'd like to order a taxi to pick me up from my house at 6 AM tomorrow and take me to the airport.,order taxi
+Can you book a taxi to take me and my partner from the hotel to the museum at 2 PM tomorrow?,order taxi
+I need a taxi to pick me up from the bar at 1 AM and take me to my apartment.,order taxi
+Can you please arrange for a taxi to take me and my colleagues from the conference center to the restaurant downtown at 12 PM today?,order taxi
+I'd like to order a taxi to pick me up from the office at 3 PM and take me to the airport.,order taxi
+Can you book a taxi to pick me up from my house at 7 PM tonight and take me to the concert venue?,order taxi
+I need a taxi to take me and my family from the hotel to the amusement park at 10 AM tomorrow.,order taxi
+Can you please arrange for a taxi to take me from the airport to the hotel at 11 PM tonight?,order taxi
+I'd like to order a taxi to pick me up from the train station at 2 PM and take me to the museum.,order taxi
+Can you book a taxi to pick me up from the convention center at 6 PM tonight and take me to the hotel?,order taxi
+I need a taxi to take me and my friends from the bar to the club at 10 PM tonight.,order taxi
+Can you please arrange for a taxi to take me and my colleagues from the office to the airport at 4 PM tomorrow?,order taxi
+I'd like to order a taxi to pick me up from the restaurant at 7 PM tonight and take me to the theater.,order taxi
+Can you book a taxi to pick me up from my apartment at 8 AM tomorrow and take me to the convention center?,order taxi
+I need a taxi to take me and my partner from the hotel to the restaurant downtown at 8 PM tonight.,order taxi
+Can you please arrange for a taxi to take me from the train station to the hotel at 5 PM today?,order taxi
+Can you please book a taxi to pick me up at my hotel at 10 AM tomorrow and take me to the airport?,order taxi
+I need to book a taxi to pick me up from the train station at 6 PM tonight and drop me off at the restaurant downtown.,order taxi
+Can you arrange for a taxi to take me and my colleagues from the office to the conference center at 9 AM on Monday?,order taxi
+I'd like to order a taxi to pick me up from my house at 8 PM and take me to the movie theater.,order taxi
+Can you book a taxi to pick me up from the airport at 3 PM on Friday and drop me off at the hotel?,order taxi
+I need a taxi to take me and my family from our apartment to the amusement park on Saturday morning.,order taxi
+Can you please book a taxi to pick me up from the convention center at 7 PM tonight and take me to the restaurant downtown?,order taxi
+I'd like to order a taxi to pick me up from the hotel at 9 AM tomorrow and take me to the beach.,order taxi
+Can you arrange for a taxi to take me and my friends from the concert venue to the bar downtown at 11 PM tonight?,order taxi
+I need a taxi to pick me up from the office at 5 PM and take me to the train station.,order taxi
+Can you please book a taxi to pick me up from the restaurant at 8 PM tonight and take me to the theater?,order taxi
+I'd like to order a taxi to pick me up from my house at 6 AM tomorrow and take me to the airport.,order taxi
+Can you book a taxi to take me and my partner from the hotel to the museum at 2 PM tomorrow?,order taxi
+I need a taxi to pick me up from the bar at 1 AM and take me to my apartment.,order taxi
+Can you please arrange for a taxi to take me and my colleagues from the conference center to the restaurant downtown at 12 PM today?,order taxi
+I'd like to order a taxi to pick me up from the office at 3 PM and take me to the airport.,order taxi
+Can you book a taxi to pick me up from my house at 7 PM tonight and take me to the concert venue?,order taxi
+I need a taxi to take me and my family from the hotel to the amusement park at 10 AM tomorrow.,order taxi
+Can you please arrange for a taxi to take me from the airport to the hotel at 11 PM tonight?,order taxi
+I'd like to order a taxi to pick me up from the train station at 2 PM and take me to the museum.,order taxi
+Can you book a taxi to pick me up from the convention center at 6 PM tonight and take me to the hotel?,order taxi
+I need a taxi to take me and my friends from the bar to the club at 10 PM tonight.,order taxi
+Can you please arrange for a taxi to take me and my colleagues from the office to the airport at 4 PM tomorrow?,order taxi
+I'd like to order a taxi to pick me up from the restaurant at 7 PM tonight and take me to the theater.,order taxi
+Can you book a taxi to pick me up from my apartment at 8 AM tomorrow and take me to the convention center?,order taxi
+I need a taxi to take me and my partner from the hotel to the restaurant downtown at 8 PM tonight.,order taxi
+Can you please arrange for a taxi to take me from the train station to the hotel ,order taxi
+at 5 PM today?,order taxi
+Can you please book a taxi to pick me up at my hotel at 10 AM tomorrow and take me to the airport?,order taxi
+I need to book a taxi to pick me up from the train station at 6 PM tonight and drop me off at the restaurant downtown.,order taxi
+Can you arrange for a taxi to take me and my colleagues from the office to the conference center at 9 AM on Monday?,order taxi
+I'd like to order a taxi to pick me up from my house at 8 PM and take me to the movie theater.,order taxi
+Can you book a taxi to pick me up from the airport at 3 PM on Friday and drop me off at the hotel?,order taxi
+I need a taxi to take me and my family from our apartment to the amusement park on Saturday morning.,order taxi
+Can you please book a taxi to pick me up from the convention center at 7 PM tonight and take me to the restaurant downtown?,order taxi
+I'd like to order a taxi to pick me up from the hotel at 9 AM tomorrow and take me to the beach.,order taxi
+Can you arrange for a taxi to take me and my friends from the concert venue to the bar downtown at 11 PM tonight?,order taxi
+I need a taxi to pick me up from the office at 5 PM and take me to the train station.,order taxi
+Can you please book a taxi to pick me up from the restaurant at 8 PM tonight and take me to the theater?,order taxi
+I'd like to order a taxi to pick me up from my house at 6 AM tomorrow and take me to the airport.,order taxi
+Can you book a taxi to take me and my partner from the hotel to the museum at 2 PM tomorrow?,order taxi
+I need a taxi to pick me up from the bar at 1 AM and take me to my apartment.,order taxi
+Can you please arrange for a taxi to take me and my colleagues from the conference center to the restaurant downtown at 12 PM today?,order taxi
+I'd like to order a taxi to pick me up from the office at 3 PM and take me to the airport.,order taxi
+Can you book a taxi to pick me up from my house at 7 PM tonight and take me to the concert venue?,order taxi
+I need a taxi to take me and my family from the hotel to the amusement park at 10 AM tomorrow.,order taxi
+Can you please arrange for a taxi to take me from the airport to the hotel at 11 PM tonight?,order taxi
+I'd like to order a taxi to pick me up from the train station at 2 PM and take me to the museum.,order taxi
+Can you book a taxi to pick me up from the convention center at 6 PM tonight and take me to the hotel?,order taxi
+I need a taxi to take me and my friends from the bar to the club at 10 PM tonight.,order taxi
+Can you please arrange for a taxi to take me and my colleagues from the office to the airport at 4 PM tomorrow?,order taxi
+I'd like to order a taxi to pick me up from the restaurant at 7 PM tonight and take me to the theater.,order taxi
+Can you book a taxi to pick me up from my apartment at 8 AM tomorrow and take me to the convention center?,order taxi
+I need a taxi to take me and my partner from the hotel to the restaurant downtown at 8 PM tonight.,order taxi
+Can you please arrange for a taxi to take me from the train station to the hotel at 5 PM today?,order taxi
+ I'm interested in booking a room at your hotel. Can you provide me with availability for the dates of August 10-15?,order hotel
+I would like to book a deluxe room for two adults and one child for the dates of July 20-24.,order hotel
+Do you have any special offers for a two-night stay in September for a single occupancy room?,order hotel
+I'm looking to book a room with a view of the ocean. Can you tell me what options you have available?,order hotel
+Can you help me book a room for my upcoming business trip? I need to stay close to the convention center and will require a late checkout.,order hotel
+ I need a taxi to pick me up from my hotel at 3 pm and take me to the airport.,order taxi
+Can you provide me with a quote for a taxi ride from the airport to downtown?,order taxi
+I need to book a taxi for tomorrow morning at 8 am to take me to the train station.,order taxi
+Do you offer airport shuttle service? I need transportation for myself and two other passengers.,order taxi
+Can I book a taxi for a round-trip ride to a restaurant for tonight at 7 pm?,order taxi
+ I'm interested in booking a flight from New York to Los Angeles for the weekend of August 20-22.,order flight
+I need to book a one-way flight from London to Paris for next Tuesday.,order flight
+Can you help me find the cheapest flights from Chicago to Miami for the first week of September?,order flight
+I would like to book a business class flight from Singapore to Tokyo for next month. Can you provide me with options and prices?,order flight
+Can you tell me what the baggage allowance is for economy class flights from San Francisco to New York?,order flight
+I'm interested in booking a room for two adults and one child. Can you tell me what options you have available?,number of guests
+How many guests can your deluxe suite accommodate?,number of guests
+Do you charge extra for additional guests in a room?,number of guests
+I need to book two rooms for my family vacation. One room will be for two adults and two children,number of guests
+Can I book a room for myself and my friend? We're both adults,number of guests
+ I'm interested in booking a room at your hotel. Can you provide me with availability for the dates of August 10-15?,order hotel
+I would like to book a deluxe room for two adults and one child for the dates of July 20-24.,order hotel
+Do you have any special offers for a two-night stay in September for a single occupancy room?,order hotel
+I'm looking to book a room with a view of the ocean. Can you tell me what options you have available?,order hotel
+Can you help me book a room for my upcoming business trip? I need to stay close to the convention center and will require a late checkout.,order hotel
+ I need a taxi to pick me up from my hotel at 3 pm and take me to the airport.,order taxi
+Can you provide me with a quote for a taxi ride from the airport to downtown?,order taxi
+I need to book a taxi for tomorrow morning at 8 am to take me to the train station.,order taxi
+Do you offer airport shuttle service? I need transportation for myself and two other passengers.,order taxi
+Can I book a taxi for a round-trip ride to a restaurant for tonight at 7 pm?,order taxi
+ I'm interested in booking a flight from New York to Los Angeles for the weekend of August 20-22.,order flight
+I need to book a one-way flight from London to Paris for next Tuesday.,order flight
+Can you help me find the cheapest flights from Chicago to Miami for the first week of September?,order flight
+I would like to book a business class flight from Singapore to Tokyo for next month. Can you provide me with options and prices?,order flight
+Can you tell me what the baggage allowance is for economy class flights from San Francisco to New York?,order flight
+I'm interested in booking a room for two adults and one child. Can you tell me what options you have available?,number of guests
+How many guests can your deluxe suite accommodate?,number of guests
+Do you charge extra for additional guests in a room?,number of guests
+I need to book two rooms for my family vacation. One room will be for two adults and two children,number of guests
+Can I book a room for myself and my friend? We're both adults,number of guests
+ I'd like to book a room for two nights starting on August 14th. What's your availability like?,order hotel
+I need to book a room for three adults and a baby for the weekend of September 3rd. Can you help me with that?,order hotel
+Can you tell me what amenities are included in the price of the room?,order hotel
+I'm interested in booking a suite with a balcony. Do you have any available?,order hotel
+Is there a shuttle service from the airport to your hotel?,order hotel
+I need a ride to the airport tomorrow morning at 6am. Can you arrange that for me?,order taxi
+How much would it cost to take a taxi from the train station to the city center?,order taxi
+Can I pay for the taxi ride with a credit card?,order taxi
+Do you offer child seats in your taxis?,order taxi
+we will be 2 adults,number of guests
+we will be 2 adults and 1 child,number of guests
+we will be 2 adults and 2 childs,number of guests
+we will be 2 adults and 3 childs,number of guests
+we will be 2 adults and 4 childs,number of guests
+we will be 2 adults and 5 childs,number of guests
+we will be 2 adults and 2 children,number of guests
+we will be 2 adults and 3 children,number of guests
+we will be 2 adults and 4 children,number of guests
+we will be 2 adults and 5 children,number of guests
+we will be two adults and one child,number of guests
+we will be two adults and two child,number of guests
+we will be two adults and three child,number of guests
+we will be two adults and four child,number of guests
+we will be two adults and five child,number of guests
+we will be two adults and one children,number of guests
+we will be two adults and two children,number of guests
+we will be two adults and three children,number of guests
+we will be two adults and four children,number of guests
+we will be two adults and five children,number of guests
+I need a room for 2 adults and 1 child,number of guests
+I need a room for 2 adults and 2 child,number of guests
+I need a room for 2 adults and 3 child,number of guests
+I need a room for 2 adults and 4 child,number of guests
+I need a room for 2 adults and 5 child,number of guests
+I need a room for 2 adults and 6 child,number of guests
+I need a room for 3 adults and 1 child,number of guests
+I need a room for 3 adults and 2 child,number of guests
+I need a room for 3 adults and 3 child,number of guests
+I need a room for 3 adults and 4 child,number of guests
+I need a room for 3 adults and 5 child,number of guests
+I need a room for 3 adults and 6 child,number of guests
+I need a room for 4 adults and 1 child,number of guests
+I need a room for 4 adults and 2 child,number of guests
+I need a room for 4 adults and 3 child,number of guests
+I need a room for 4 adults and 4 child,number of guests
+we will be 3 adults,number of guests
+we will be 3 adults and 1 child,number of guests
+we will be 3 adults and 2 childs,number of guests
+we will be 3 adults and 3 childs,number of guests
+we will be 3 adults and 4 childs,number of guests
+we will be 3 adults and 5 childs,number of guests
+we will be 3 adults and 2 children,number of guests
+we will be 3 adults and 3 children,number of guests
+we will be 3 adults and 4 children,number of guests
+we will be 3 adults and 5 children,number of guests
+we will be three adults and one child,number of guests
+we will be three adults and two child,number of guests
+we will be three adults and three child,number of guests
+we will be three adults and four child,number of guests
+we will be three adults and five child,number of guests
+we will be three adults and one children,number of guests
+we will be three adults and two children,number of guests
+we will be three adults and three children,number of guests
+we will be three adults and four children,number of guests
+we will be three adults and five children,number of guests
+1 people,number of guests
+2 people,number of guests
+3 people,number of guests
+4 people,number of guests
+5 people,number of guests
+6 people,number of guests
+7 people,number of guests
+one people,number of guests
+two people,number of guests
+three people,number of guests
+four people,number of guests
+five people,number of guests
+six people,number of guests
+seven people,number of guests
+one child,number of guests
+two childs,number of guests
+three childs,number of guests
+four childs,number of guests
+five childs,number of guests
+six childs,number of guests
+seven childs,number of guests
